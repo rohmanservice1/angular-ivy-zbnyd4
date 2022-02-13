@@ -5,6 +5,6 @@ import { Component, VERSION } from '@angular/core';
   tem plateUrl: './app.component.html',
   styleUrls: [ './app.component.css' ]
 })
-export class AppComponent  {
+export cl ass AppComponent  {
   name = 'Angular ' + VERSION.major;
 }
